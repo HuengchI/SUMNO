@@ -9,7 +9,7 @@ Official repository for the paper above.
 
 ## Paper
 
-- arXiv: *link to be added*
+- arXiv: [arXiv:2611.16341v1](https://arxiv.org/abs/2611.16341)
 - Journal: *under review*
 
 ## Planned release
@@ -26,11 +26,14 @@ Following the Code Availability statement of the paper, this repository will pro
 If you find this work useful, please cite it (BibTeX will be updated upon publication):
 
 ```bibtex
-@article{sumno,
-  title  = {SUMNO: Spatially Unrolled Multigrid Neural Operator for Fluid Flow Surrogates},
-  author = {Yingqi Hu and Nan Deng and Changxiao Shao and Xiaozhou He},
-  year   = {2026},
-  note   = {Under review}
+@misc{sumno_2026,
+      title={SUMNO: Spatially Unrolled Multigrid Neural Operator for Fluid Flow Surrogates}, 
+      author={Yingqi Hu and Nan Deng and Changxiao Shao and Xiaozhou He},
+      year={2026},
+      eprint={2611.16341},
+      archivePrefix={arXiv},
+      primaryClass={physics.flu-dyn},
+      url={https://arxiv.org/abs/2611.16341}, 
 }
 ```
 
